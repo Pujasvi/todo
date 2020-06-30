@@ -1,0 +1,1 @@
+export const LOGO_LOGIN=require('../assets/images/list-blck.png');
